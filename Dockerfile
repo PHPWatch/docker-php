@@ -1,4 +1,4 @@
-FROM wodby/php:8
+FROM wodby/php:8.1
 
 ENV PHP_XDEBUG=1
 
